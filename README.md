@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on vue
 - 📫 How to reach me,liuqingffffff@gmail.com
 - 😄 Pronouns: 😂
-- ⚡ Fun fact: n
+- ⚡ Fun fact: 、
 
 <!---
 Goth-DongHaiTang/Goth-DongHaiTang is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
